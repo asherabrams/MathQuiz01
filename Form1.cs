@@ -5,6 +5,8 @@
 // Step 1.2.1.  Label timeLabel is set to AutoSize=False because we need to leave the text empty
 // without the box borders shrinking to nothing (step 1.2.6).
 // Step 1.3.7.  We create the label plusLeftLabel, which will serve as a template.
+// Step 1.3.16.  After setting the properties for all four labels, we add a NumericUpDown and call it sum.
+// First row of controls is now done.
 
 
 using System;
